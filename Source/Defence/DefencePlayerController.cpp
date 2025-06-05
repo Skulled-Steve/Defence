@@ -9,7 +9,7 @@
 #include "Engine/LocalPlayer.h"
 #include "GameFramework/Actor.h"
 #include "Kismet/GameplayStatics.h"
-#include "EngineUtils.h" 
+#include "EngineUtils.h"
 #include "AIController.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
