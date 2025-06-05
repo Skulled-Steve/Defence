@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Blueprints/BP_TopDownPlayerController.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Input/Actions/IA_LeftClick.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Input/Actions/IA_RightClick.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/25/0WKFHLEZAN7RMZG3XLIS03.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Widgets/WBP_SelectionBox.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Widgets/A732-Light-Blue.uasset",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Maps/TopDownMap.umap",
+				"C:/Users/Steph/Documents/Unreal Projects/Defence/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset"
+			]
+		}
+	]
+}
