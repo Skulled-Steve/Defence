@@ -5,5 +5,4 @@
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Defence, "Defence" );
 
-DEFINE_LOG_CATEGORY(LogDefence)
- 
+DEFINE_LOG_CATEGORY(LogDefence);
